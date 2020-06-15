@@ -31,11 +31,11 @@
   		<artifactId>jackson-mapper-asl</artifactId>
   		<version>1.9.10</version>
   	</dependency> -->
-  	<dependency>
+<!--   	<dependency>
   		<groupId>log4j</groupId>
   		<artifactId>log4j</artifactId>
   		<version>1.2.12</version>
-  	</dependency>
+  	</dependency> -->
 <!--   	<dependency>
   		<groupId>org.hibernate</groupId>
   		<artifactId>hibernate-validator</artifactId>
